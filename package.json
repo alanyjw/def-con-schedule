@@ -10,8 +10,8 @@
   "author": "Mathew Fleisch",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
+    "axios": "^0.34.0",
+    "cheerio": "^1.2.0",
     "date-format": "^1.2.0",
     "fs-extra": "^7.0.0",
     "timezone": "^1.0.13"
